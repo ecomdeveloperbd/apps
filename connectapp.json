@@ -214,6 +214,32 @@
 "parallax":false
 },
   
+  {
+"layout":"bannerImage",
+"design":"static",
+"fit":"fitWidth",
+"marginLeft":0.0,
+"items":[
+{
+"image":"https://i.ibb.co/pZbVmNG/banners.png",
+"showSubcategory":false,
+"bannerWithProduct":true,
+"defaultShowProduct":true,
+"products":[],
+"padding":0.0,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
+"productLength":10
+}
+],
+"marginBottom":0.0,
+"height":0.2,
+"marginRight":0.0,
+"marginTop":0.0,
+"enableParallax":false,
+"parallaxImageRatio":1.2,
+"isHorizontal":false,
+"parallax":false
+},
   
 {
 "layout":"header_text",
