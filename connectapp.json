@@ -223,8 +223,8 @@
 {
 "image":"https://i.ibb.co/pZbVmNG/banners.png",
 "showSubcategory":false,
-"bannerWithProduct":true,
-"defaultShowProduct":true,
+"bannerWithProduct":false,
+"defaultShowProduct":false,
 "products":[],
 "padding":0.0,
 "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
