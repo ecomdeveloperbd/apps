@@ -371,18 +371,8 @@
 "parallaxImageRatio":1.2,
 "isHorizontal":false,
 "parallax":false
-}
-  
-],
-"marginBottom":0.0,
-"height":0.2,
-"marginRight":0.0,
-"marginTop":0.0,
-"enableParallax":false,
-"parallaxImageRatio":1.2,
-"isHorizontal":false,
-"parallax":false
 },
+  
 {
 "name":"New Collections",
 "layout":"twoColumn",
