@@ -10,7 +10,7 @@
 "spacing":8.0,
 "items":[
 {
-"category":"18",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
 "showDescription":false,
 "keepDefaultTitle":false,
 "image":"https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
@@ -21,14 +21,14 @@
 "image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
 "keepDefaultTitle":false,
 "showDescription":false,
-"category":"24",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
 "originalColor":false,
 "colors":["#fff44336"]
 },
 {
 "originalColor":false,
 "colors":["#fff44336"],
-"category":"25",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
 "keepDefaultTitle":false,
 "image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
 "showDescription":false
@@ -36,7 +36,7 @@
 {
 "image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x50/bf817e570f9d704dc88dad8bb29386d1/ic_shoes.png",
 "originalColor":false,
-"category":"28",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
 "colors":["#fff44336"],
 "keepDefaultTitle":false,
 "showDescription":false
@@ -45,7 +45,7 @@
 "keepDefaultTitle":false,
 "showDescription":false,
 "colors":["#333333"],
-"category":"29",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
 "image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
 "originalColor":false
 },
@@ -54,7 +54,7 @@
 "image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x34/e20dbfd9e05fb3fbb8991d5d2213a9b0/ic_panties.png",
 "colors":["#fff44336"],
 "showDescription":false,
-"category":"30",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
 "keepDefaultTitle":false
 }
 ],
@@ -88,7 +88,7 @@
 "products":[],
 "bannerWithProduct":false,
 "defaultShowProduct":false,
-"category":"29"
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw=="
 },
 {
 "products":[],
@@ -96,7 +96,7 @@
 "defaultShowProduct":false,
 "showSubcategory":false,
 "bannerWithProduct":false,
-"category":"28"
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw=="
 }
 ],
 "marginBottom":0.0,
@@ -195,7 +195,7 @@
 "products":[],
 "padding":0.0,
 "productLength":10,
-"category":"23"
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg5NjEyMQ=="
 }
 ],
 "marginBottom":0.0,
@@ -314,7 +314,7 @@
 "title":"Mental"
 },
 {
-"category":"23",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg5NjEyMQ==",
 "image":"https://trello.com/1/cards/610acd9edfb4e88df377c024/attachments/610ad15f18151234f67ea68f/previews/610ad15f18151234f67ea6a4/download",
 "colors":["#333333"],
 "originalColor":true,
@@ -352,7 +352,7 @@
 "products":[],
 "padding":0.0,
 "productLength":10,
-"category":"23"
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg5NjEyMQ=="
 }
 ],
 "marginBottom":0.0,
@@ -409,7 +409,7 @@
 "x":2.0,
 "y":2.0
 },
-"category":"23"
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTk2MTY1Nw=="
 },
 {
 "isSafeArea":false,
@@ -482,7 +482,7 @@
 "x":2.0,
 "y":2.0
 },
-"category":"23"
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw=="
 },
 {
 "name":"⚡ Flash Sales",
@@ -513,7 +513,7 @@
 "cardDesign":"card",
 "borderRadius":3.0,
 "showCountDown":true,
-"category":"23",
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg5NjEyMQ==",
 "image":"",
 "boxShadow":{
 "blurRadius":6.0606060606060606,
@@ -555,6 +555,7 @@
 "cartIconRadius":9.0,
 "showQuantity":false,
 "showCartIconColor":false,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg5NjEyMQ==",
 "showCartIcon":false,
 "enableBottomAddToCart":false,
 "cardDesign":"card",
@@ -619,7 +620,7 @@
 "parallax":false,
 "parallaxImageRatio":1.2,
 "hideEmptyProductLayout":false,
-"category":"24"
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTk2MTY1Nw=="
 },
 {
 "layout":"threeColumn",
@@ -637,6 +638,7 @@
 "enableRating":false,
 "hideTitle":false,
 "hideStore":false,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg5NjEyMQ==",
 "onSale":false,
 "hidePrice":false,
 "featured":false,
@@ -689,6 +691,7 @@
 "hideStore":false,
 "onSale":false,
 "hidePrice":false,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTk2MTY1Nw==",
 "featured":false,
 "showHeart":false,
 "showCartButton":false,
@@ -738,6 +741,7 @@
 "hideTitle":false,
 "hideStore":false,
 "onSale":false,
+"category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5ODUwNTg2MzM1Mw==",
 "hidePrice":false,
 "featured":false,
 "showHeart":true,
