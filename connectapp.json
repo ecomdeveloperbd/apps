@@ -486,7 +486,7 @@
 },
 {
 "name":"⚡ Flash Sales",
-"layout":"saleOff",
+"layout":"threeColumn",
 "isSnapping":true,
 "rows":1,
 "columns":0,
@@ -533,7 +533,7 @@
 },
 {
 "name":"Sale 30% ⚡️",
-"layout":"saleOff",
+"layout":"threeColumn",
 "isSnapping":true,
 "rows":1,
 "columns":0,
