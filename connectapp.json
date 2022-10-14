@@ -2,7 +2,7 @@
 "HorizonLayout":[
 {
 "layout":"category",
-"type":"icon",
+"type":"text",
 "wrap":false,
 "showShortDescription":true,
 "size":1.0,
