@@ -8,20 +8,20 @@
 "radius":50.0,
 "items":[
 {
-"category":112,
+"category":80,
 "image":"https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
 "colors":["#3CC2BF",
 "#3CC2BF"],
 "originalColor":false
 },
 {
-"category":26,
+"category":80,
 "image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/48x58/a68d188ae063a20eac903fe2ca00ece5/ic_dress.png",
 "colors":["#3E6AB5",
 "#3E6AB5"]
 },
 {
-"category":26,
+"category":80,
 "image":"https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x54/93b296bf55ec19d22778158bf06d2dbc/ic_shorts.png",
 "colors":["#53A2CC",
 "#53A2CC"]
@@ -120,7 +120,7 @@
 {
 "name":"Man Collections",
 "image":"",
-"category":112,
+"category":80,
 "layout":"twoColumn"
 },
 {
@@ -148,7 +148,7 @@
 {
 "name":"New Collections",
 "layout":"staggered",
-"limit":20
+"limit":80
 }
 ],
 "Setting":{
