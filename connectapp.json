@@ -137,7 +137,7 @@
   ],
   "Setting": {
     "MainColor": "#3FC1BE",
-    "ProductListLayout": "listTile",
+    "ProductListLayout": "columns",
     "StickyHeader": false
   },
   "TabBar": [
